@@ -1,5 +1,5 @@
 # File: <Recursive Multiplication>
-# Description: <A DESCRIPTION OF YOUR PROGRAM>
+# Description: <shows us the process of a multipcation equation>
 # Assignment Name and Number: #2 of Chapter 12
 #
 # Name: <Zachary Windus>
