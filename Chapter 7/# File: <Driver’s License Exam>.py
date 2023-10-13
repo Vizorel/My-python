@@ -1,5 +1,5 @@
 # File: <Driver’s License Exam>
-# Description: <>
+# Description: <Grades a driver's license test>
 # Assignment Name and Number: #7 of Chapter 7
 #
 # Name: <Zachary Windus>
