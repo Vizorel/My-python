@@ -1,5 +1,5 @@
-# File: <>
-# Description: <>
+# File: <Trivia Game>
+# Description: <A program that plays a Trivia Game>
 # Assignment Name and Number: #9 of Chapter 10
 #
 # Name: <Zachary Windus>
@@ -28,7 +28,12 @@ def main():
         Question('Which planet is known as the Red Planet?', ['1. Mars', '2. Venus', '3. Earth', '4. Jupiter'], 1),
         Question('What is the largest mammal in the world?', ['1. Elephant', '2. Blue Whale', '3. Giraffe', '4. Rhino'], 2),
         Question('What is 2+2', ['1. 22', '2. 2', '3. 69', '4. 34'], 2),
-        Question("What is not the largest mammal in the world?", ['1. Elephant', '2. Blue Whale', '3. Giraffe', '4. Pygmy possum'], 4),
+        Question('What is not the largest mammal in the world?', ['1. Elephant', '2. Blue Whale', '3. Giraffe', '4. Pygmy possum'], 4),
+        Question('What river was dammed to create the International Amistad Reservoir?',['1. Rio Grande River', '2. Indus River', '3. Danube River', '4. Ob River'], 1),
+        Question('How are U-shaped valleys formed?', ['1. Water', '2. Errosion', '3. Ice', '4. God'], 3),
+        Question('Which US state shares a border with Ohio, Indiana and Wisconsin?', ['1. California', '2. Minnesota', '3. Boston', '4. Michigan'], 4),
+        Question("What was the name of the world's last passenger pigeon?", ['1. Martha', '2. Bob', '3. pigeon #2,147,483,647', '4. Drug Bird'], 1),
+        Question("Which is Earth's smallest ocean?", ['1. Atlantic Ocean', '2. Pacific Ocean', '3. Indian Ocean', '4. Arctic Ocean'], 4),
     ]
     player1_score = 0
     player2_score = 0
